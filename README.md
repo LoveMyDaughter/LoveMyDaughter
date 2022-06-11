@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoveMyDaughter
 - 👀 I’m interested in Test Automation.
-- 🌱 I’m currently learning databases.
+- 🌱 I’m currently learning Test Automation with .Net.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
